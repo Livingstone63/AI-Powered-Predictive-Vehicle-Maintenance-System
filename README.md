@@ -5,11 +5,6 @@ This project combines **machine learning, automation, and data visualization** t
 
 ---
 
-##  **Problem Statement**
-Frequent unexpected vehicle breakdowns occur due to the lack of timely maintenance prediction and monitoring of critical sensor data.
-
----
-
 ##  **Objective**
 To develop an AI-powered system that predicts vehicle failures in advance and automates maintenance scheduling.
 
